@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{F403E886-EB7A-11D2-8C9E-8437F6C00000} = s 'ImageS'
+		'ImageS.EXE'
+		{
+			val AppID = s {F403E886-EB7A-11D2-8C9E-8437F6C00000}
+		}
+	}
+}

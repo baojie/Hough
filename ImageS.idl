@@ -1,0 +1,19 @@
+
+	// ImageS.idl : IDL source for ImageS.exe
+//
+// This file will be processed by the MIDL tool to
+// produce the type library (ImageS.tlb) and marshalling code.
+import "oaidl.idl";
+import "ocidl.idl";
+[
+	uuid(F403E885-EB7A-11D2-8C9E-8437F6C00000),
+	version(1.0),
+	helpstring("ImageS 1.0 Type Library")
+]
+library ImageSLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
+
+	
