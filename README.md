@@ -1,6 +1,8 @@
 # Hough
 Hough Transformation
 
+2002-01-06
+
 Visual C++ code, implement classic and improved algorithm  Required Dll: vic32.dll victw32.dll Lib: vic32ms.lib
 
 * Windows based
@@ -9,4 +11,6 @@ Visual C++ code, implement classic and improved algorithm  Required Dll: vic32.d
 * Can handle gray and color images
 * Free for use and distribution
 
-2002-01-06
+
+
+![](https://raw.githubusercontent.com/baojie/Hough/master/images/hough.png)
